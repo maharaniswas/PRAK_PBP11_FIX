@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">
+        The biggest breakthrough since the mobile phone, Galaxy Fold introduced category-defying innovation that changed the shape of the phone — and the shape of the future.
+    </string>
+    <string name="content_specs_display">6.2 inches, 2316 x 904 pixels, Dynamic AMOLED, 120Hz refresh rate, HDR support, Ambient light sensor, Proximity sensor, Qualcomm Snapdragon 8+ Gen 1 SM8475 (4 nm), Octa-core, 1x 3.19GHz Cortex-X2 + 3x 2.75GHz Cortex-A710 + 4x 1.80GHz Cortex-A510 , Adreno 670, 50 MP (OIS, PDAF).
+    </string>
+    <string name="content_specs_size">7.6 inches / 9.28 oz (263.0 g)</string>
+    <string name="content_specs_battery">4400 mAh / Fast charging, Qi wireless charging </string>
+    <string name="stock">Available Stock 100 </string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Maharani Swastika</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp.21.999.999</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="kembali">Kembali</string>
+    <string name="barang_berhasil_dibeli">Barang berhasil dibeli!</string>
+    <string name="hubungi_customer">Hubungi CS</string>
+    <string name="hubungi_cs">Hubungi CS</string>
+</resources>
